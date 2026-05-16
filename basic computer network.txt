@@ -83,8 +83,3 @@ Cost Efficiency: Reduce operational and infrastructure costs through shared reso
 Reliability and Availability: Improve system reliability using backup paths and fault-tolerant mechanisms.
 Scalability and Growth: Support easy expansion by adding new devices and services as demand increases.
 Security and Control: Protect data and network resources using authentication, access control, and monitoring.
-
-Introduction to Computer Networks
-Visit Course
-course link icon
-Suggested Quiz
